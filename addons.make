@@ -1,0 +1,6 @@
+ofx3DModelLoader
+ofxAssimpModelLoader
+ofxGui
+ofxOpenCv
+ofxCv
+ofxGif
